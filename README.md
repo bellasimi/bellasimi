@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=3d9eff&height=240&section=header&text=About%20me&fontColor=FFFFFF&fontSize=90)
 
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=bellasimi&show_icons=true"/></a>&nbsp 
+</p>
+
 <br/>
+
 ## 🛠 TECH STACK
 
 <div>
@@ -20,6 +25,7 @@
 
 
 <br/>
+
 ## 📚 STUDYING
 
 <p>
@@ -28,6 +34,7 @@
 </p>
 
 <br/>
+
 ## 💻 TOOLS
 
 <p>
