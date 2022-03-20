@@ -3,7 +3,7 @@
 ## TECH STACK
 
 </p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&enbsp 
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E ?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/MySQL-4479A1 ?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp 
@@ -17,11 +17,14 @@
 </p>
 
 ## STUDYING
+
 <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp 
 </p>
+
 ## TOOLS
+
 <p>
     <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/>&nbsp 
