@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=3d9eff&height=240&section=header&text=About%20me&fontColor=FFFFFF&fontSize=90)
 
+
+<br/>
 ## 🛠 TECH STACK
 
 <div>
@@ -16,6 +18,8 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp 
 </div>
 
+
+<br/>
 ## 📚 STUDYING
 
 <p>
@@ -23,6 +27,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp 
 </p>
 
+<br/>
 ## 💻 TOOLS
 
 <p>
@@ -35,3 +40,8 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp 
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp 
 </p>
+
+
+<br/>
+![bellasimi's github stats](https://github-readme-stats.vercel.app/api?username=bellasimi&show_icons=true)
+[![bellasimi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bellasimi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bellasimi)
