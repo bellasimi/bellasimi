@@ -43,6 +43,6 @@
 
 
 <br/>
-![bellasimi's Github stats](https://github-readme-stats.vercel.app/api?username=bellasimi&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=bellasimi&show_icons=true"/></a>
 
 
