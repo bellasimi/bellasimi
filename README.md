@@ -43,7 +43,7 @@
 
 
 <br/>
-![bellasimi's github stats](https://github-readme-stats.vercel.app/api?username=bellasimi&show_icons=true)
+![bellasimi's Github stats](https://github-readme-stats.vercel.app/api?username=bellasimi&show_icons=true)
 
 <br/>
-[![bellasimi's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bellasimi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bellasimi)
+[![bellasimi's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bellasimi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/bellasimi)
