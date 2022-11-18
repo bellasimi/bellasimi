@@ -1,11 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=3d9eff&height=240&section=header&text=About%20me&fontColor=FFFFFF&fontSize=90)
 
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bellasimi&show_icons=true"/></a>&nbsp 
-</p>
 
-<br/>
 
 ## 🛠 TECH STACK
 
@@ -16,3 +12,8 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
 </div>
 
+
+
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=bellasimi&show_icons=true"/></a>&nbsp 
+</p>
