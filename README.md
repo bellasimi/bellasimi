@@ -2,13 +2,15 @@
 
 
 
+
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/bellasimi?pet-id=591143561477158894"
-    width="200"
+    width="600"
     height="120"
   />
 </a>
+  
   
 
 
